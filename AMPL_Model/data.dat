@@ -1,0 +1,90 @@
+param: ROADS: time :=
+Gha Suy 2.4,Gha Rci 0.8,Gha Vik 5.3,Gha Hir 6.7,Gha IIT 9.9,Gha Kan 8.3,Gha Run 10.0,Gha Bha 11.0,Gha Nad 11.4,Gha Lot 136,Gha Nah 11.8,Gha Der 13.3,Gha Ash 12.0,Gha For 12.5,Gha PVR 13.3,Gha Mul 13.2,Gha Umi 13.5,Gha Lok 15.3,Gha Mal 15.2,Gha Tha 16.2
+Suy Gha 2.0,Suy Rci 2.5,Suy Vik 4.9,Suy Hir 5.2,Suy IIT 5.4,Suy Kan 7.9,Suy Run 9.6,Suy Bha 10.6,Suy Nad 11.0,Suy Lot 138,Suy Nah 11.4,Suy Der 12.9,Suy Ash 11.6,Suy For 12.2,Suy PVR 12.9,Suy Mul 12.8,Suy Umi 13.1,Suy Lok 14.9,Suy Mal 14.8,Suy Tha 15.8
+Rci Gha 1.3,Rci Suy 2.9,Rci Vik 6.6,Rci Hir 7.2,Rci IIT 11.1,Rci Kan 9.5,Rci Run 11.3,Rci Bha 12.3,Rci Nad 12.6,Rci Lot 135,Rci Nah 13.1,Rci Der 14.5,Rci Ash 13.2,Rci For 13.8,Rci PVR 14.6,Rci Mul 14.5,Rci Umi 14.7,Rci Lok 16.5,Rci Mal 16.4,Rci Tha 17.5
+Vik Gha 4.5,Vik Suy 2.6,Vik Rci 6.8,Vik Hir 4.7,Vik IIT 3.6,Vik Kan 2.5,Vik Run 3.8,Vik Bha 4.8,Vik Nad 5.1,Vik Lot 140,Vik Nah 7.3,Vik Der 8.7,Vik Ash 7.5,Vik For 8.0,Vik PVR 8.8,Vik Mul 8.7,Vik Umi 8.9,Vik Lok 10.7,Vik Mal 10.6,Vik Tha 11.7
+Hir Gha 6.6,Hir Suy 4.7,Hir Rci 7.1,Hir Vik 4.7,Hir IIT 1.9,Hir Kan 3.9,Hir Run 5.1,Hir Bha 6.1,Hir Nad 6.5,Hir Lot 146,Hir Nah 9.7,Hir Der 7.7,Hir Ash 9.9,Hir For 10.5,Hir PVR 11.3,Hir Mul 11.2,Hir Umi 11.4,Hir Lok 13.2,Hir Mal 13.1,Hir Tha 14.1
+IIT Gha 6.8,IIT Suy 4.9,IIT Rci 10.4,IIT Vik 2.8,IIT Hir 2.0,IIT Kan 1.5,IIT Run 2.7,IIT Bha 3.7,IIT Nad 4.1,IIT Lot 143,IIT Nah 7.3,IIT Der 5.2,IIT Ash 7.5,IIT For 8.1,IIT PVR 8.9,IIT Mul 8.8,IIT Umi 9.0,IIT Lok 10.8,IIT Mal 10.7,IIT Tha 11.7
+Kan Gha 6.6,Kan Suy 4.6,Kan Rci 9.7,Kan Vik 2.5,Kan Hir 3.9,Kan IIT 2.5,Kan Run 1.8,Kan Bha 2.8,Kan Nad 3.1,Kan Lot 143,Kan Nah 3.9,Kan Der 4.3,Kan Ash 6.8,Kan For 7.3,Kan PVR 4.8,Kan Mul 8.0,Kan Umi 8.3,Kan Lok 10.1,Kan Mal 10.0,Kan Tha 11.0
+Run Gha 7.8,Run Suy 5.9,Run Rci 11.4,Run Vik 3.8,Run Hir 5.2,Run IIT 3.7,Run Kan 1.8,Run Bha 1.9,Run Nad 2.3,Run Lot 144,Run Nah 8.4,Run Der 3.5,Run Ash 5.1,Run For 4.4,Run PVR 3.9,Run Mul 9.8,Run Umi 10.0,Run Lok 7.9,Run Mal 11.7,Run Tha 12.8
+Bha Gha 8.6,Bha Suy 6.7,Bha Rci 12.2,Bha Vik 4.6,Bha Hir 6.0,Bha IIT 4.5,Bha Kan 2.5,Bha Run 1.7,Bha Nad 1.8,Bha Lot 145,Bha Nah 5.5,Bha Der 3.0,Bha Ash 4.6,Bha For 3.9,Bha PVR 3.4,Bha Mul 10.6,Bha Umi 10.8,Bha Lok 7.4,Bha Mal 12.5,Bha Tha 13.5
+Nad Gha 9.3,Nad Suy 7.4,Nad Rci 12.9,Nad Vik 5.2,Nad Hir 6.6,Nad IIT 5.2,Nad Kan 3.2,Nad Run 2.4,Nad Bha 1.4,Nad Lot 139,Nad Nah 3.8,Nad Der 1.2,Nad Ash 2.9,Nad For 2.1,Nad PVR 1.7,Nad Mul 6.1,Nad Umi 6.4,Nad Lok 5.7,Nad Mal 6.1,Nad Tha 7.5
+Lot Gha 136,Lot Suy 138,Lot Rci 136,Lot Vik 140,Lot Hir 145,Lot IIT 145,Lot Kan 142,Lot Run 144,Lot Bha 146,Lot Nad 139,Lot Nah 137,Lot Der 138,Lot Ash 136,Lot For 136,Lot PVR 138,Lot Mul 137,Lot Umi 137,Lot Lok 139,Lot Mal 140,Lot Tha 140
+Nah Gha 12.3,Nah Suy 8.8,Nah Rci 13.5,Nah Vik 7.6,Nah Hir 8.1,Nah IIT 6.6,Nah Kan 3.9,Nah Run 5.4,Nah Bha 4.5,Nah Nad 3.4,Nah Lot 136,Nah Der 2.3,Nah Ash 1.1,Nah For 1.6,Nah PVR 2.4,Nah Mul 4.0,Nah Umi 4.3,Nah Lok 4.2,Nah Mal 6.0,Nah Tha 7.0
+Der Gha 13.6,Der Suy 8.5,Der Rci 14.8,Der Vik 9.0,Der Hir 7.8,Der IIT 6.3,Der Kan 4.4,Der Run 3.5,Der Bha 2.6,Der Nad 1.6,Der Lot 138,Der Nah 3.0,Der Ash 1.4,Der For 1.7,Der PVR 2.5,Der Mul 5.3,Der Umi 5.6,Der Lok 4.3,Der Mal 7.3,Der Tha 8.3
+Ash Gha 12.6,Ash Suy 11.1,Ash Rci 13.8,Ash Vik 7.9,Ash Hir 10.4,Ash IIT 8.9,Ash Kan 5.0,Ash Run 4.2,Ash Bha 3.2,Ash Nad 2.2,Ash Lot 137,Ash Nah 2.0,Ash Der 1.1,Ash For 0.8,Ash PVR 1.6,Ash Mul 4.3,Ash Umi 4.6,Ash Lok 3.5,Ash Mal 6.3,Ash Tha 7.3
+For Gha 13.1,For Suy 9.2,For Rci 14.3,For Vik 8.4,For Hir 10.9,For IIT 9.4,For Kan 5.1,For Run 4.2,For Bha 3.3,For Nad 2.3,For Lot 137,For Nah 2.5,For Der 1.9,For Ash 1.1,For PVR 0.8,For Mul 4.8,For Umi 5.0,For Lok 3.5,For Mal 5.1,For Tha 6.6
+PVR Gha 14.0,PVR Suy 9.4,PVR Rci 15.3,PVR Vik 9.4,PVR Hir 8.7,PVR IIT 7.2,PVR Kan 5.3,PVR Run 4.4,PVR Bha 3.5,PVR Nad 2.5,PVR Lot 138,PVR Nah 3.5,PVR Der 2.9,PVR Ash 2.1,PVR For 1.3,PVR Mul 5.8,PVR Umi 4.5,PVR Lok 4.0,PVR Mal 4.4,PVR Tha 5.8
+Mul Gha 13.4,Mul Suy 12.0,Mul Rci 14.6,Mul Vik 8.8,Mul Hir 11.2,Mul IIT 9.8,Mul Kan 8.1,Mul Run 9.9,Mul Bha 7.4,Mul Nad 6.4,Mul Lot 138,Mul Nah 3.8,Mul Der 5.3,Mul Ash 4.0,Mul For 4.6,Mul PVR 5.4,Mul Umi 0.5,Mul Lok 2.8,Mul Mal 4.1,Mul Tha 5.1
+Umi Gha 13.7,Umi Suy 12.2,Umi Rci 14.9,Umi Vik 9.0,Umi Hir 11.5,Umi IIT 10.0,Umi Kan 8.4,Umi Run 10.2,Umi Bha 7.7,Umi Nad 6.7,Umi Lot 138,Umi Nah 4.1,Umi Der 5.6,Umi Ash 4.3,Umi For 4.9,Umi PVR 5.6,Umi Mul 0.5,Umi Lok 2.7,Umi Mal 3.7,Umi Tha 4.8
+Lok Gha 15.5,Lok Suy 14.0,Lok Rci 16.7,Lok Vik 10.8,Lok Hir 13.3,Lok IIT 11.8,Lok Kan 10.2,Lok Run 7.9,Lok Bha 6.9,Lok Nad 5.9,Lok Lot 140,Lok Nah 5.2,Lok Der 4.6,Lok Ash 3.8,Lok For 3.6,Lok PVR 4.4,Lok Mul 2.8,Lok Umi 2.7,Lok Mal 2.8,Lok Tha 4.2
+Mal Gha 15.3,Mal Suy 13.8,Mal Rci 16.5,Mal Vik 10.6,Mal Hir 13.1,Mal IIT 11.6,Mal Kan 10.0,Mal Run 11.8,Mal Bha 7.3,Mal Nad 6.3,Mal Lot 139,Mal Nah 5.7,Mal Der 7.2,Mal Ash 5.9,Mal For 6.5,Mal PVR 4.8,Mal Mul 4.1,Mal Umi 4.4,Mal Lok 2.7,Mal Tha 1.5
+Tha Gha 15.9,Tha Suy 14.4,Tha Rci 17.1,Tha Vik 11.2,Tha Hir 13.7,Tha IIT 12.2,Tha Kan 10.6,Tha Run 12.4,Tha Bha 8.4,Tha Nad 7.4,Tha Lot 140,Tha Nah 6.3,Tha Der 7.8,Tha Ash 6.5,Tha For 7.0,Tha PVR 5.9,Tha Mul 4.7,Tha Umi 4.9,Tha Lok 3.9,Tha Mal 1.2
+Ghal Vikl 2
+Vikl Ghal 2
+Vikl Kanl 2
+Kanl Vikl 2
+Kanl Bhal 1
+Bhal Kanl 1
+Bhal Nahl 2
+Nahl Bhal 2
+Nahl Mull 4
+Mull Nahl 4
+Mull Thal 2
+Thal Mull 2
+Ghab Rcib 3
+Rcib Ghab 3
+Rcib Vikb 1.7
+Vikb Rcib 1.7
+Vikb IITb 3
+IITb Vikb 3
+IITb Kanb 1.6
+Kanb IITb 1.6
+Bhab Nahb 1.5
+Nahb Bhab 1.5
+Nahb Forb 1
+Forb Nahb 1
+Forb Mulb 4
+Mulb Forb 4
+Ghal Ghab 0
+Ghab Ghal 0
+Ghal Gha 0
+Gha Ghal 0
+Ghab Gha 0
+Gha Ghab 0
+Vikl Vikb 0
+Vikb Vikl 0
+Vikl Vik 0
+Vik Vikl 0
+Rcib Rci 0
+Rci Rcib 0
+Kanl Kanb 0
+Kanb Kanl 0
+Kanl Kan 0
+Kan Kanl 0
+Vikb Vik 0
+Vik Vikb 0
+Bhal Bhab 0
+Bhab Bhal 0
+Bhal Bha 0
+Bha Bhal 0
+IITb IIT 0
+IIT IITb 0
+Nahl Nahb 0
+Nahb Nahl 0
+Nahl Nah 0
+Nah Nahl 0
+Kanb Kan 0
+Kan Kanb 0
+Mull Mulb 0
+Mulb Mull 0
+Mull Mul 0
+Mul Mull 0
+Bhab Bha 0
+Bha Bhab 0
+Thal Thab 0
+Thab Thal 0
+Thal Tha 0
+Tha Thal 0
+Nahb Nah 0
+Nah Nahb 0
